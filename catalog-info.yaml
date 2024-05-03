@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-provider-argocd
+  annotations:
+    github.com/project-slug: dtrouillet/terraform-provider-argocd
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
